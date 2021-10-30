@@ -1,2 +1,2 @@
 # xender
-For ad unit
+Send an receive
